@@ -4,7 +4,6 @@ const ComingSoonComponent: Component = () => {
     return (
         <div>
             <h2 class="test">Coming soon</h2>
-            <p>This site is currently being built.</p>
         </div>
     )
 }
