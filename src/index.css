@@ -22,6 +22,20 @@ body {
 }
 
 
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+    background-color: #121212;
+  }
+
+  img {
+    filter: invert(1);
+    -webkit-filter: invert(1);
+  }
+
+  
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
