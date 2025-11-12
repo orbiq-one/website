@@ -10,12 +10,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "solid-devtools": "^0.29.2",
-    "typescript": "^5.3.3",
-    "vite": "^5.0.11",
-    "vite-plugin-solid": "^2.8.2"
+    "solid-devtools": "^0.29.3",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21",
+    "vite-plugin-solid": "^2.11.10"
   },
   "dependencies": {
-    "solid-js": "^1.8.11"
-  }
+    "solid-js": "^1.9.10"
+  },
+  "packageManager": "pnpm@10.14.0+sha512.ad27a79641b49c3e481a16a805baa71817a04bbe06a38d17e60e2eaee83f6a146c6a688125f5792e48dd5ba30e7da52a5cda4c3992b9ccf333f9ce223af84748"
 }
